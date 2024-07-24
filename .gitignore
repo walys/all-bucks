@@ -1,1 +1,10 @@
-node_modules
+# Comentários começam com cerquilha (#)
+
+# Ignorar arquivos temporários
+*.tmp
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração específicos do ambiente
+.env
